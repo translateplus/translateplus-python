@@ -15,7 +15,7 @@ from translateplus.exceptions import (
     TranslatePlusValidationError,
 )
 
-__version__ = "2.0.4"
+__version__ = "2.0.5"
 __all__ = [
     "TranslatePlusClient",
     "TranslatePlusError",

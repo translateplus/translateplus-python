@@ -19,13 +19,18 @@ Official Python client library for [TranslatePlus API](https://translateplus.io)
 ## Installation
 
 ```bash
-pip install translateplus
+pip install translateplus-python
 ```
 
 For async support (optional):
 
 ```bash
-pip install translateplus[async]
+pip install translateplus-python[async]
+```
+
+**Note**: The package name on PyPI is `translateplus-python`, but the import name is still `translateplus`:
+```python
+from translateplus import TranslatePlusClient  # Import name stays the same
 ```
 
 ## Quick Start
