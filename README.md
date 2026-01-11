@@ -422,7 +422,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Support
 
 - **Documentation**: [https://docs.translateplus.io](https://docs.translateplus.io)
-- **API Reference**: [https://api.translateplus.io/docs](https://api.translateplus.io/docs)
+- **API Reference**: [https://docs.translateplus.io/reference/v2/translation/translate](https://docs.translateplus.io/reference/v2/translation/translate)
 - **Issues**: [GitHub Issues](https://github.com/translateplus/translateplus-python/issues)
 - **Email**: support@translateplus.io
 
@@ -432,7 +432,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Changelog
 
-### 1.0.0 (2024-01-XX)
+### 2.0.0 (2024-01-12)
 
 - Initial release
 - Support for all TranslatePlus API endpoints
