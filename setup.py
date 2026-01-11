@@ -7,9 +7,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="translateplus",
-    version="1.0.0",
+    version="2.0.0",
     author="TranslatePlus",
-    author_email="support@translateplus.com",
+    author_email="support@translateplus.io",
     description="Official Python client library for TranslatePlus API",
     long_description=long_description,
     long_description_content_type="text/markdown",
