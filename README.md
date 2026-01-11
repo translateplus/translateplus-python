@@ -4,7 +4,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official Python client library for [TranslatePlus API](https://translateplus.io) - Professional translation service for text, HTML, emails, subtitles, and i18n files in 100+ languages.
+Official Python client library for [Translation API](https://translateplus.io) - Professional translation service for text, HTML, emails, subtitles, and i18n files in 100+ languages.
 
 ## Features
 
