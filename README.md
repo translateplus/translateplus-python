@@ -424,6 +424,15 @@ for file_path in subtitle_files:
 
 MIT License - see [LICENSE](LICENSE) file for details.
 
+## Related Libraries
+
+TranslatePlus provides official client libraries for multiple programming languages:
+
+- **JavaScript/TypeScript**: [translateplus-js](https://www.npmjs.com/package/translateplus-js) - Official npm package
+- **PHP**: [translateplus-php](https://packagist.org/packages/translateplus/translateplus-php) - Official Composer package
+
+All libraries provide the same comprehensive API support and features.
+
 ## Support
 
 - **Documentation**: [https://docs.translateplus.io](https://docs.translateplus.io)
